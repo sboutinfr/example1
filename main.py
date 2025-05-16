@@ -7,5 +7,8 @@ def fact(n):
 def add(a,b):
   return a+b
 
+def sub(a,b):
+  return a-b
+  
 print("hello world from dev")
 # Testing webhooks sent to datadog.
