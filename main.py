@@ -4,5 +4,8 @@ def fact(n):
   else:
     return fact(n-1) * n
 
+def add(a,b):
+  return a+b
+
 print("hello world from dev")
 # Testing webhooks sent to datadog.
